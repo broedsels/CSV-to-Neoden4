@@ -1,13 +1,15 @@
-# Neoden 4 Feeder calculation.
+# Neoden 4 KiCad converter.
 
-This program will help you to convert the KiCad file to a CSV file that the Neoden 4 can use.
+This program will help you to convert the KiCad .pos file to a CSV file that the Neoden 4 can use.
+It will try to match the component with pre-defined feeder and nozzle types.
 
 ##
 This program will:
 
-- Fix rotation
-- Set Feed position
-- Assign the correct Feeders and Nozzles
+- Fix rotation.
+- Set Feed position.
+- Assign the correct Feeders and Nozzles.
+- Configurate the Feeder options.
 
 To download the program use following link:
 

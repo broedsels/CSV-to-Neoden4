@@ -1,7 +1,9 @@
 # Neoden 4 KiCad converter.
 
 This program will help you to convert the KiCad .pos file to a CSV file that the Neoden 4 can use.
-It will try to match the component with pre-defined feeder and nozzle types.
+It will match the component with pre-defined feeder and nozzle types.
+
+The easiest way to convert KiCad pos files to Neoden 4.
 
 ##
 This program will:
@@ -10,6 +12,7 @@ This program will:
 - Set Feed position.
 - Assign the correct Feeders and Nozzles.
 - Configurate the Feeder options.
+- Position the board on the conveyor.
 
 To download the program use following link:
 

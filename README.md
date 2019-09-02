@@ -5,7 +5,8 @@ It will match the component with pre-defined feeder and nozzle types.
 
 The easiest way to convert KiCad pos files to Neoden 4.
 
-![KiCad to Neoden4](KiCad 2 Neoden.PNG)
+![KiCad to Neoden4](KiCad_2_Neoden.jpg)
+
 
 ##
 This program will:

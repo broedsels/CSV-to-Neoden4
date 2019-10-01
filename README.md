@@ -1,5 +1,7 @@
 # Neoden 4 KiCad / Eagle converter.
 
+![KiCad to Neoden4](KiCad_2_Neoden.jpg)
+
 This program will help you to convert the KiCad .pos or Eagle .mn? file to a CSV file that the Neoden 4 can use.
 It will match the component with pre-defined feeder and nozzle types.
 
@@ -8,10 +10,8 @@ It is the easiest way to convert KiCad or Eagle files to Neoden 4.
 For Eagle files use the mountsmd.ulp to generate the .mnt and the .mnb files.
 
 In both Eagle and Kicad the left lower corner needs to be set to 0,0
+
 ![Set origin](image/Origin.JPG)
-
-
-![KiCad to Neoden4](KiCad_2_Neoden.jpg)
 
 
 ##

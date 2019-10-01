@@ -8,6 +8,7 @@ It is the easiest way to convert KiCad or Eagle files to Neoden 4.
 For Eagle files use the mountsmd.ulp to generate the .mnt and the .mnb files.
 
 In both Eagle and Kicad the left lower corner needs to be set to 0,0
+![Set origin](/image/origin.jpg)
 
 
 ![KiCad to Neoden4](KiCad_2_Neoden.jpg)

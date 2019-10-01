@@ -5,6 +5,11 @@ It will match the component with pre-defined feeder and nozzle types.
 
 It is the easiest way to convert KiCad or Eagle files to Neoden 4.
 
+For Eagle files use the mountsmd.ulp to generate the .mnt and the .mnb files.
+
+In both Eagle and Kicad the left lower corner needs to be set to 0,0
+
+
 ![KiCad to Neoden4](KiCad_2_Neoden.jpg)
 
 

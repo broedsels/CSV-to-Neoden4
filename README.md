@@ -34,6 +34,4 @@ https://github.com/broedsels/Neoden4-KiCad-converter/archive/master.zip
 * Extract the file from the master.zip
 * Execute the .msi file.
 
-## Become a Patron!
-Help me with a small contribution a month, so I can dedicate more time on programming and designing.
-https://www.patreon.com/MyMakerspace
+

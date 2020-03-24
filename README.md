@@ -1,6 +1,6 @@
 # Neoden 4 KiCad / Eagle converter.
 
-![KiCad to Neoden4](KiCad_2_Neoden.jpg)
+![KiCad to Neoden4](image/csv_to_neoden4.jpg)
 
 This program will help you to convert the KiCad .pos or Eagle .mn? file to a CSV file that the Neoden 4 can use.
 It will match the component with pre-defined feeder and nozzle types.

@@ -27,7 +27,7 @@ This program will:
 
 To download the program use following link:
 
-https://github.com/broedsels/Neoden4-KiCad-converter/archive/master.zip
+https://github.com/broedsels/CSV-to-Neoden4/blob/master/Version/KiCad2Neoden4.msi
 
 ## Getting Started
 

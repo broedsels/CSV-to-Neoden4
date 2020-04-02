@@ -27,10 +27,11 @@ This program will:
 
 To download the program use following link:
 
-https://github.com/broedsels/CSV-to-Neoden4/raw/master/Version/KiCad2Neoden4.msi
+https://github.com/broedsels/CSV-to-Neoden4/archive/master.zip
 
 ## Getting Started
 
+* Unzip package
 * Execute the .msi file.
 
 

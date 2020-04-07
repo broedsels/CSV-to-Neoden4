@@ -14,6 +14,7 @@ Name the lower left fiducial AFID1 and the upper right fiducial AFID2.
 In both Eagle and Kicad the left lower corner needs to be set to 0,0
 
 ![Set origin](image/Origin.JPG)
+![Set origin](image/auxilary.PNG)
 
 
 ##

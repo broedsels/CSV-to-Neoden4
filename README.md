@@ -1,20 +1,28 @@
-# Neoden 4 KiCad / Eagle converter.
+# CSV to Neoden4 file offline file converter.
 
-![KiCad to Neoden4](image/CSV_to_Neoden.JPG)
+![CSV to Neoden4](image/CSV_to_Neoden.JPG)
 
-This program will help you to convert the KiCad .pos or Eagle .mn? file to a CSV file that the Neoden 4 can use.
-It will match the component with pre-defined feeder and nozzle types.
+This program will help you to convert the Altium, Eagle, KiCad and PADS CSV file to a CSV file that the Neoden 4 can use.
 
-It is the easiest way to convert KiCad or Eagle files to Neoden 4.
+It is the easiest way to generate a Neoden 4 CSV file.
 
 For Eagle files use the mountsmd.ulp to generate the .mnt and the .mnb files.
 
 Name the lower left fiducial AFID1 and the upper right fiducial AFID2.
 
-In both Eagle and Kicad the left lower corner needs to be set to 0,0
+The left lower left corner of the PCB needs to be set to 0,0
 
 ![Set origin](image/Origin.JPG)
 ![Set origin](image/auxilary.PNG)
+
+## Panel Builder.
+
+From version 1.05 a basic panel builder is included.
+The panel builder makes it possible to add the correct step and repeat and add this to the table.
+![Panel Builder](image/Panel builder.JPG)
+
+## Component and feeder list.
+Included a list to automatic assign the 
 
 
 ##

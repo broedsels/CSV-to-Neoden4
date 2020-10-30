@@ -19,7 +19,7 @@ The left lower left corner of the PCB needs to be set to 0,0
 
 From version 1.05 a basic panel builder is included.
 The panel builder makes it possible to add the correct step and repeat and add this to the table.
-![Panel Builder](image/Panel builder.JPG)
+![Panel Builder](image/Panel%20builder.JPG)
 
 ## Component and feeder list.
 Included a list to automatic assign the 

@@ -22,8 +22,8 @@ The panel builder makes it possible to add the correct step and repeat and add t
 ![Panel Builder](image/Panel%20builder.JPG)
 
 ## Component and feeder list.
-Included a list to automatic assign the 
-
+Included a list to automaticly assign the feeders and nozzles.
+![Component list](image/Component_list.JPG)
 
 ##
 This program will:
@@ -33,7 +33,6 @@ This program will:
 - Assign the correct Feeders and Nozzles.
 - Configurate the Feeder options.
 - Position the board on the conveyor.
-
 
 ## Download
 

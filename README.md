@@ -36,6 +36,7 @@ This program will:
 
 ## Download
 
+see releases or
 To download the program use following link:
 
 https://github.com/broedsels/CSV-to-Neoden4/archive/master.zip

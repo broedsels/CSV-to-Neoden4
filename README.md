@@ -1,7 +1,7 @@
 # CSV to Neoden4 file offline file converter.
 
 User PDF
-<a href="pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+https://docs.google.com/viewer?url=${link_to_raw_pdf}
 
 ![CSV to Neoden4](image/CSV_to_Neoden.JPG)
 

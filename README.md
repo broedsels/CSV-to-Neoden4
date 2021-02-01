@@ -1,7 +1,7 @@
 # CSV to Neoden4 file offline file converter.
 
 ## User PDF
-https://docs.google.com/viewer?url=https://github.com/broedsels/CSV-to-Neoden4/blob/master/CSV%20to%20Neoden%20software.pdf
+https://github.com/broedsels/CSV-to-Neoden4/blob/master/CSV%20to%20Neoden%20software.pdf
 
 ![CSV to Neoden4](image/CSV_to_Neoden.JPG)
 

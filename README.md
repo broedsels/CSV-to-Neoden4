@@ -1,5 +1,8 @@
 # CSV to Neoden4 file offline file converter.
 
+Follow us also on Discord:
+https://discord.gg/eUgBXMGDku
+
 ## User PDF
 https://github.com/broedsels/CSV-to-Neoden4/blob/master/CSV%20to%20Neoden%20software.pdf
 
